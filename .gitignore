@@ -16,3 +16,12 @@
 *.mpr.bak
 /vendorlib/temp/
 .DS_Store
+/app.mpr.bak
+/app.mpr.lock
+/nativemobile/builds/
+/.svn/
+/mprcontents/mprjournal*
+theme-cache/web/theme.compiled.css
+theme-cache/web/theme.compiled.css.map
+modules/javasource/*/proxies/*
+modules/javasource/system/*
