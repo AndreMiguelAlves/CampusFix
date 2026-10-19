@@ -1,30 +1,30 @@
 # CampusFix
 
-Aplicação desenvolvida em Mendix para gestão de pedidos de suporte e manutenção.
+Application developed in Mendix for managing support and maintenance requests.
 
-## Funcionalidades implementadas
+## Implemented Features
 
-- Criação e consulta de pedidos
-- Edição de pedidos em aberto
-- Atribuição e tratamento de pedidos por técnicos
-- Comentários nos pedidos
-- Histórico/auditoria de ações
-- Gestão de categorias
-- Filtros por estado, prioridade e categoria
-- Dashboard com indicadores
-- Gestão de utilizadores
+- Creation and consultation of requests
+- Editing of open requests
+- Assignment and handling of requests by technicians
+- Comments on requests
+- Action history/audit log
+- Category management
+- Filters by status, priority and category
+- Dashboard with indicators
+- User management
 
-## Perfis de acesso
+## Access Profiles
 
-- Utilizador
-- Técnico
-- Administrador
+- User
+- Technician
+- Administrator
 
-## Funcionalidades opcionais
+## Optional Features
 
-- Sistema de auditoria/histórico de ações
+- Audit/action history system
 
-## Limitações conhecidas
+## Known Limitations
 
-- A página de gestão de utilizadores utiliza a interface padrão do módulo Administration e encontra-se em inglês.
-- Alguns textos padrão do Mendix, como valores booleanos, podem aparecer em inglês como por exemplo os radio buttons.
+- The user management page uses the standard Administration module interface and is currently displayed in English.
+- Some default Mendix texts, such as boolean values, may appear in English, for example on radio buttons.
